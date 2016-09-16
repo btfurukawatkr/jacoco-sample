@@ -94,6 +94,11 @@
             <artifactId>terasoluna-5.2.0-domain</artifactId>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>${project.groupId}</groupId>
+            <artifactId>terasoluna-5.2.0-env</artifactId>
+            <scope>test</scope>
+        </dependency>
         <!-- == End Unit Test == -->
 
         <!-- == Begin Coding Support == -->
